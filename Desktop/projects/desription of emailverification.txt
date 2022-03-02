@@ -1,0 +1,4 @@
+                                     Description
+write the java program to validate the email.
+as a developer i had written the code for validating the email address.
+my java program is used to validate a email address to check if the given email is valid or not.
