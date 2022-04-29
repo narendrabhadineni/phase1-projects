@@ -1,5 +1,0 @@
-Arthamatic calculator.
-Description:
-write a java program for arthamatic calculator.
-as a developer i had written a code for arthamatic calculator and the operations i had implemented in this code are Addition, Subtraction,Division, Multiplication.
-by using the code i had written we can do operations like additions, subtractions , divisions , multiplications 
